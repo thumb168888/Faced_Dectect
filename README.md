@@ -7,8 +7,8 @@
   
 # 
 
-![image](https://github.com/thumb168888/-Adam-double-reflection/blob/main/double%20reflection.png)
-![image](https://github.com/thumb168888/-Adam-double-reflection/blob/main/messageImage_1607162624090.jpg)
+![image](https://github.com/thumb168888/facedectect/blob/main/facedectect.JPG)
+![image](https://github.com/thumb168888/facedectect/blob/main/facedectect_numpy.JPG)
 
 
 # Python Code
